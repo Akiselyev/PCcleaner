@@ -1,2 +1,2 @@
-# PCcleaner
-This program can clean your PC from trash and boost your FPS.
+# CleanUP pack
+This pack will clean your PC and make it more responsive.
